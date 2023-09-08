@@ -1,6 +1,6 @@
 # NextJs Fullstack Blog Using Nodejs
 
-I created this app to warmup NextJs 13.4.19 new feature.
+I created this app to warm up NextJs 13.4.19 new feature.
 I have used TailwindCSS
 
 ![AddBlog Page](public/images/AddBlogs.png)
@@ -11,7 +11,7 @@ I have used TailwindCSS
 
 ## Topic
 
-App routing (static , Dynamic)
+App routing (static, Dynamic)
 
 API Routes
 
